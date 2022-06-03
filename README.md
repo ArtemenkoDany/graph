@@ -22,7 +22,7 @@ from two random vertices for all non-trivial connected component
 
 
 
-div align="center">
+<div align="center">
  <a href="https://www.instagram.com/danyderudenko/">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
     </a>
