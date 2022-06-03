@@ -2,7 +2,7 @@
 
 This project built with Python and networkx libraries for building graphs
 
-The task is to buld graph of 3 connected components 11 vertices 17 edges with a minimum number of intersections.
+The task is to build graph of 3 connected components, 11 vertices  and 17 edges with a minimum number of intersections.
 
 And there is 3 outputs of 
 
